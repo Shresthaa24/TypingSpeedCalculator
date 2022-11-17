@@ -13,7 +13,7 @@ public class Project {
 
 			public static void main(String[] args) throws InterruptedException {
 				//we are throwing the exception because TimeUnit.SECONDS.sleep() may cause errors
-				// TODO Auto-generated method stub
+				
 		System.out.println("3");//to let the user know when to start typing
 		TimeUnit.SECONDS.sleep(1);// to get one second interval between the print statements
 		System.out.println("2");
